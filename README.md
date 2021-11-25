@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+One day I'll figure write something clever, till then...
+
+- 🔭 I’m currently working on ...
+* Setting up my home kube cluster with ArgoCD
+
 <!--
 **resnostyle/resnostyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
